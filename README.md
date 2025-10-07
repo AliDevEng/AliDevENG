@@ -40,13 +40,15 @@ Jag brinner för att bygga **stabila, säkra och användarvänliga webblösninga
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-  <!-- Tools -->
+  <!-- Tools & Methodologies -->
   <br/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scrum-00A98F?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
 
 </p>
 
@@ -56,6 +58,7 @@ Jag brinner för att bygga **stabila, säkra och användarvänliga webblösninga
 🚀 Utveckla moderna och effektiva webbapplikationer  
 🔐 Implementera säkerhet och autentisering i backend  
 🧩 Strukturera och optimera kod för skalbarhet  
+🤝 Arbeta enligt **Agile/Scrum** för effektivt samarbete och leverans  
 🤖 Utforska AI, automation och smarta verktyg (n8n, ChatGPT m.m.)
 
 ---
