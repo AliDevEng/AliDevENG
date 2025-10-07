@@ -1,13 +1,18 @@
-<!-- Header -->
-<h1 align="center">👋 Hej, jag är <span style="color:#4CAF50">Ali Rezai</span></h1>
+<!-- Animated header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=4CAF50&center=true&vCenter=true&width=500&lines=Hej+där!+👋+Jag+är+Ali+Rezai;Fullstackutvecklare+💻;Byggnadsingenjör+🏗️;Teknikentusiast+🚀;Välkommen+till+min+GitHub!+🌱" alt="Typing SVG" />
+</h1>
+
+---
+
 <h3 align="center">💻 Fullstackutvecklare | 🏗️ Byggnadsingenjör | 🚀 Teknikentusiast</h3>
 
 ---
 
 ### 🧭 Om mig
 Jag är en **driven fullstackutvecklare** med passion för teknik, struktur och problemlösning.  
-Min bakgrund som byggnadsingenjör har gett mig en stark **analytisk förmåga** och en förkärlek för **välorganiserade lösningar**.  
-Jag brinner för att bygga **stabila, säkra och snygga webblösningar** – där teknik och kreativitet möts.  
+Min bakgrund som byggnadsingenjör har gett mig **analytisk skärpa** och **förmågan att tänka i system** – något jag nu tillämpar i allt från backend till UI-design.  
+Jag brinner för att bygga **stabila, säkra och användarvänliga webblösningar** där **struktur möter kreativitet**.
 
 ---
 
